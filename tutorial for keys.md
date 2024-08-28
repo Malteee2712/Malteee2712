@@ -9,7 +9,13 @@ search in the cemu folder keys.txt or just keys let this text in
 541b9889519b27d363cd21604b97c67a # example key (can be deleted)
 
 
+
+
+
 and just let one space bar and put this in
+
+
+
 
 93b991687b03be0b59ce7aac6e9bce57 # Splatoon [EUR, NUS]
 
