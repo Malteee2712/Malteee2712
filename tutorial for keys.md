@@ -1,8 +1,11 @@
 creeds to discord: @malte.27
+
 search in the cemu folder keys.txt or just keys let this text in 
 
 # 1 key per line, any text after a '#' character is considered a comment
+
 # the emulator will automatically pick the right key
+
 541b9889519b27d363cd21604b97c67a # example key (can be deleted)
 
 
